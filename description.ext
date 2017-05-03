@@ -1,0 +1,4 @@
+#include "Dialog\roster_dialog.hpp" //Dialog HPP
+class CfgFunctions {
+  #include "Functions\AW_functions.hpp" //Functions File
+};
